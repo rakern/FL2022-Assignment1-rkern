@@ -1,7 +1,14 @@
-﻿body {
+﻿
+body {
     background-color: rgb(180, 214, 240);
-    text-align: center;
+    
     color: rgb(19, 54, 82);
+}
+
+#Content {
+    text-align: center;
+    margin: auto;
+    max-width:600px;
 }
 
 #Title {
@@ -33,4 +40,5 @@
 #Actors {
     color: rgb(19, 54, 82);
     text-align: center;
+    margin:auto
 }
