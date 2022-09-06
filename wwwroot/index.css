@@ -40,5 +40,6 @@ body {
 #Actors {
     color: rgb(19, 54, 82);
     text-align: center;
-    margin:auto
+    margin:left;
+    list-style-position: inside;
 }
