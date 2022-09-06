@@ -1,0 +1,36 @@
+﻿body {
+    background-color: rgb(180, 214, 240);
+    text-align: center;
+    color: rgb(19, 54, 82);
+}
+
+#Title {
+    
+}
+
+#subheader {
+    text-decoration-line: underline;
+    text-align:center;
+}
+
+#Rating {
+    
+}
+
+#CoverArt {
+    border-radius:10px;
+    height:450px;
+    width:400px;
+}
+#imdbLink {
+    color:darkgreen;
+}
+
+#Summary {
+    color: rgb(19, 54, 82);
+}
+
+#Actors {
+    color: rgb(19, 54, 82);
+    text-align: center;
+}
